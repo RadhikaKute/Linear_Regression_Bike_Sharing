@@ -23,4 +23,4 @@ They have contracted a consulting company to understand the factors on which the
 ## Notebooks:
 1. <a href="Linear_Regression_Bike_Sharing_Radhika.ipynb" target="_blank">Python Commented File.</a>
 2. <a href="" target="_blank">Subjective Questions PDF.</a>
-3. <a href="" target="_blank">README File.</a>
+3. <a href="https://radhikakute.github.io/Linear_Regression_Bike_Sharing/" target="_blank">README File.</a>
