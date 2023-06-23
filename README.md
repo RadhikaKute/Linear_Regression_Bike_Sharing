@@ -21,5 +21,6 @@ They have contracted a consulting company to understand the factors on which the
 9. Model Evaluation
 
 ## Notebooks:
-1. <a href=".ipynb" target="_blank">Python Commented File.</a>
+1. <a href="Linear Regression Assignment_Radhike Kute.ipynb" target="_blank">Python Commented File.</a>
 2. <a href="" target="_blank">Subjective Questions PDF.</a>
+3. <a href="" target="_blank">README File.</a>
